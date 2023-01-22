@@ -34,3 +34,6 @@ The project uses Flask to create a RESTful API that allows users to access the w
 ## Note
 - In case of any issues, please check the log for more information, you can add the following line app.run(debug=True) before if __name__ == '__main__': it will give you more information about the error
 - If you're still facing the issue, please provide more details about the error message you're seeing and the versions of the packages you're using.
+
+## References
+- Menne, M.J., I. Durre, R.S. Vose, B.E. Gleason, and T.G. Houston, 2012: An overview of the Global Historical Climatology Network-Daily Database. Journal of Atmospheric and Oceanic Technology, 29, 897-910, https://doi.org/10.1175/JTECH-D-11-00103.1 Links to an external site., measurements converted to metric in Pandas.
